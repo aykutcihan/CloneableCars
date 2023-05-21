@@ -1,0 +1,17 @@
+
+
+Project Name: CloneableCars
+
+Requirements:
+
+Create a "Car" class. This class should have attributes such as brand, model, color, engine type, price, and availability status.
+
+Create a method that prints the information of the "Car" class.
+
+Create a clone() method that can duplicate a car object and return this copy.
+
+Create another class named "CarDemo". Within the main method of this class, instantiate "Car" objects, duplicate them, and modify their properties.
+
+Project Scenario:
+
+You're running a car dealership application. Certain models of your cars are very popular and sell often. However, creating every car object individually takes time and can sometimes lead to errors. Therefore, you want to create a system where you can duplicate your popular car models and only modify necessary attributes (color, price, etc.)
